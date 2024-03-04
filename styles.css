@@ -1,0 +1,56 @@
+*{
+    margin:10px; 
+    background-color:antiquewhite;   
+}
+
+h1{
+    text-align: center;
+    margin-top:30px;
+}
+
+
+form{
+    text-align:center;
+    
+    
+}
+#input-item{
+    width:500px;
+    margin-top:50px;
+    border-radius:12px;
+    border:solid black;
+    height:30px;
+    font-size:15px;
+        
+}
+#add-item{
+    width:80px;
+}
+
+.input-item:hover{
+    background-color: rgb(201, 54, 54);
+    color:white;
+}
+
+
+#todoList{
+    text-align: center;
+    width: 650px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+#add-btn{
+    background-color: rgb(247, 133, 85);
+    border-radius: 12px;
+    border:solid rgb(248, 115, 58);
+    width:60px;
+    height:40px;
+}
+
+#add-btn:hover{
+    background-color: rgb(249, 97, 3);
+    border:2px solid black
+
+}
